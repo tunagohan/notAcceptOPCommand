@@ -1,0 +1,8 @@
+name: NotAcceptOpCommand
+version: '${project.version}'
+main: com.tunagohan.plugin.NotAcceptOpCommand
+api-version: 1.18
+authors: [ tunagohan ]
+description: This plugin will detect and disable the OP itself.
+website: https://github.com/tunagohan/notAcceptOPCommand
+
